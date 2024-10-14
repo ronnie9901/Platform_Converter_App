@@ -48,7 +48,7 @@
 
 <h1 align="left"> </h1>
 
-<h2 align="left"> IOS </h2>
+<h2 align="center"> IOS </h2>
 
 <div align="center">
   <img height="550" align="left" src="https://github.com/user-attachments/assets/a7f1c212-82eb-40d6-b050-a5fb906b71dc"/>
