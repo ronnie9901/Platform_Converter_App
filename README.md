@@ -22,6 +22,8 @@
 
 <h1 align="left"> </h1>
 
+<h1 align="center"> Android </h1>
+
 <div align="center">
   <img height="550" align="left" src="https://github.com/user-attachments/assets/92877fb0-60fd-4e34-87d7-ad78992463d9"/>
   <img height="550" src="https://github.com/user-attachments/assets/50e79305-7f19-4e83-93b1-f60cee5d3b51"/>
@@ -45,6 +47,8 @@
 </div>
 
 <h1 align="left"> </h1>
+
+<h2 align="left"> IOS </h2>
 
 <div align="center">
   <img height="550" align="left" src="https://github.com/user-attachments/assets/a7f1c212-82eb-40d6-b050-a5fb906b71dc"/>
