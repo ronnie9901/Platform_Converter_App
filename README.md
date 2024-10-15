@@ -1,4 +1,4 @@
-<h1 align="center"> 🔶 Platform Converter App 🔶 </h1>
+<h1 >  Platform Converter App  </h1>
 
 
 <h1> Android </h1>
